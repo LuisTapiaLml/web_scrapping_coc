@@ -151,6 +151,8 @@ const getStatistics = async (page) => {
         
         const elTable = await page.$(".wikitable")
 
+        
+
 
     } catch (error) {
     
