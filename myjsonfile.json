@@ -1,0 +1,999 @@
+[
+  {
+    "id": 1,
+    "name": "Bárbaro",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/9/90/B%C3%A1rbaro_info.png/230px-B%C3%A1rbaro_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/1f/B%C3%A1rbaro1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/6/60/B%C3%A1rbaro3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/e5/B%C3%A1rbaro5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/ba/B%C3%A1rbaro6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c6/B%C3%A1rbaro7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/6/67/B%C3%A1rbaro8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/f2/B%C3%A1rbaro9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/fb/B%C3%A1rbaro10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/4/42/Barbarian11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Cuerpo a Cuerpo (Solo  Terrestres)",
+      "espacio_vivienda": "1",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "1s",
+      "rango": "1"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Arquera",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/5/53/Arquera_info.png/240px-Arquera_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/ee/Archer1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/f6/Archer3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/8a/Archer5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/12/Archer6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/70/Archer7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d2/Archer8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/51/Archer9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/1a/Archer10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/98/Archer11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "A distancia (tierra y aire)",
+      "espacio_vivienda": "1",
+      "velocidad_movimiento": "24",
+      "velocidad_ataque": "1s",
+      "rango": "2"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Gigante",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/3/35/Giant_info.png/250px-Giant_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/00/Giant1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/7a/Giant3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/ea/Giant5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a6/Giant6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a3/Giant7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/8f/Giant8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/98/Giant9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/02/Giant10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/07/Giant11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Defensas",
+      "tipo_dano": "Cuerpo a Cuerpo (Solo Terrestre)",
+      "espacio_vivienda": "5",
+      "velocidad_movimiento": "12",
+      "velocidad_ataque": "2s",
+      "rango": "3"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Duende",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/5/5a/Duende_info.png/260px-Duende_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c6/Goblin1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d7/Goblin3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/9d/Goblin5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/ff/Goblin6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/bb/Goblin7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/4/48/Goblin8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/7f/Goblin9.png",
+        "niveles": [
+          "9"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Recursos (Daño x2)",
+      "tipo_dano": "Cuerpo a Cuerpo (Terrestre Solamente)",
+      "espacio_vivienda": "1",
+      "velocidad_movimiento": "32",
+      "velocidad_ataque": "1s",
+      "rango": "4"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Rompemuros",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/7/70/Wall_Breaker_info.png/223px-Wall_Breaker_info.png?b418f2",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/7f/Wall_Breaker1.png?80b0a8",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/91/Wall_Breaker3.png?5c7726",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/ac/Wall_Breaker5.png?4054bf",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/be/Wall_Breaker6.png?18fbfe",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/7b/Wall_Breaker7.png?e832bf",
+        "niveles": [
+          "7",
+          "-",
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/15/Wall_Breaker10.png?6e9e77",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/4/43/Wall_Breaker11.png?665f1f",
+        "niveles": [
+          "11"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/cb/Wall_Breaker12.png?cc31b4",
+        "niveles": [
+          "12"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Muros (Daño x40)",
+      "tipo_dano": "Área de salpicadura de 2 casillas de radio (sólo tierra)",
+      "espacio_vivienda": "2",
+      "velocidad_movimiento": "24",
+      "velocidad_ataque": "1s",
+      "rango": "5"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Globo bombástico",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/c/c8/Globo_info.png/240px-Globo_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/7d/Balloon1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/9a/Balloon3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/8d/Balloon5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/3/3e/Balloon6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/fc/Balloon7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/8b/Balloon8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c1/Balloon9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/fa/Balloon10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/18/Balloon11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Defensas",
+      "tipo_dano": "Salpicadura de área de 1,2 casillas de radio (sólo en el suelo)",
+      "espacio_vivienda": "5",
+      "velocidad_movimiento": "10",
+      "velocidad_ataque": "3s",
+      "rango": "6"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Mago",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/1/14/Wizard_info.png/240px-Wizard_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/e4/Wizard1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/94/Wizard3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c8/Wizard5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/8d/Wizard6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/cd/Wizard7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/af/Wizard8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/b0/Wizard9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/3/31/Wizard10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d3/Wizard11.png",
+        "niveles": [
+          "11"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/cb/Wizard12.png",
+        "niveles": [
+          "12"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Salpicadura de Área 0.3 Cuadros de Radio (Terrestre y Aéreo)",
+      "espacio_vivienda": "4",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "1.5s",
+      "rango": "7"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Curandera",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/c/ca/Healer_info.png/210px-Healer_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c0/Healer1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/eb/Healer3.png",
+        "niveles": [
+          "3"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/ee/Healer5.png",
+        "niveles": [
+          "4",
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/98/Healer7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/5f/Healer8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/72/Healer9.png",
+        "niveles": [
+          "9"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Salpicadura de Curación; 1.5 Cuadros (Solo Terrestres)",
+      "espacio_vivienda": "14",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "0.7s",
+      "rango": "8"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Dragón",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/2/28/Dragon_info.png/240px-Dragon_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/f/fd/Dragon1.png",
+        "niveles": [
+          "1"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/91/Dragon2.png",
+        "niveles": [
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/8/82/Dragon3.png",
+        "niveles": [
+          "3"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/72/Dragon4.png",
+        "niveles": [
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/5d/Dragon5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/e/ec/Dragon6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c3/Dragon7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/7/77/Dragon8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a0/Dragon9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/thumb/9/9b/Dragon10.png/300px-Dragon10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/thumb/0/0b/Dragon11.png/300px-Dragon11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Salpicadura de Área 0.3 casillas de radio (Terrestre y Aéreo)",
+      "espacio_vivienda": "20",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "1.25 seg",
+      "rango": "9"
+    }
+  },
+  {
+    "id": 10,
+    "name": "P.E.K.K.A",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/5/54/P.E.K.K.A_info.png/300px-P.E.K.K.A_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/c8/PEKKA1.png",
+        "niveles": [
+          "1"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/00/PEKKA2.png",
+        "niveles": [
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/cb/PEKKA3.png",
+        "niveles": [
+          "3"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/ce/PEKKA4.png",
+        "niveles": [
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/58/PEKKA5.png",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/bf/PEKKA6.png",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d7/PEKKA7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/09/PEKKA8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a1/PEKKA9.png",
+        "niveles": [
+          "9"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a0/PEKKA10.png",
+        "niveles": [
+          "10"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/2/2a/PEKKA11.png",
+        "niveles": [
+          "11"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguna",
+      "tipo_dano": "Cuerpo a Cuerpo (Solo tierra)",
+      "espacio_vivienda": "25",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "1.8s",
+      "rango": "10"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Bebé dragón/Aldea",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/4/44/Baby_Dragon_info.png/250px-Baby_Dragon_info.png?368dd3",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/be/Baby_Dragon1.png?ca9304",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/3/3a/Baby_Dragon3.png?694ef6",
+        "niveles": [
+          "3"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/3/3a/Baby_Dragon3.png?694ef6",
+        "niveles": [
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/3/35/Baby_Dragon5.png?a6eac2",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/4/4b/Baby_Dragon6.png?d685fc",
+        "niveles": [
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/5e/Baby_Dragon7.png?b013bd",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/5e/Baby_Dragon8.png?f35112",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/4/4a/Baby_Dragon9.png?62763f",
+        "niveles": [
+          "9"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Salpicadura de área de 0,3 casillas de radio (tierra & aire)",
+      "espacio_vivienda": "10",
+      "velocidad_movimiento": "20",
+      "velocidad_ataque": "1s",
+      "rango": "11"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Minero",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/5/56/Miner_info.png/264px-Miner_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/b/b6/Miner1.png",
+        "niveles": [
+          "1",
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/c/ce/Miner3.png",
+        "niveles": [
+          "3",
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d2/Miner5.png",
+        "niveles": [
+          "5",
+          "6"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/96/Miner7.png",
+        "niveles": [
+          "7"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d1/Miner8.png",
+        "niveles": [
+          "8"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/2/2f/Miner9.png",
+        "niveles": [
+          "9"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "Objetivo único",
+      "espacio_vivienda": "6",
+      "velocidad_movimiento": "*32*",
+      "velocidad_ataque": "1.7s",
+      "rango": "12"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Dragón eléctrico",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/0/00/Electro_Dragon_info.png/227px-Electro_Dragon_info.png?e83bcf",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/1/16/Electro_Dragon1.png?4fd1aa",
+        "niveles": [
+          "1-3"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/2/2d/Electro_Dragon4.png?2143d5",
+        "niveles": [
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/9/97/Electro_Dragon5.png?ab3e5c",
+        "niveles": [
+          "5"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/thumb/2/27/Electro_Dragon6.png/300px-Electro_Dragon6.png?230bee",
+        "niveles": [
+          "6"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Cualquiera",
+      "tipo_dano": "Cadena de Relámpagos",
+      "espacio_vivienda": "30",
+      "velocidad_movimiento": "12",
+      "velocidad_ataque": "3.5s",
+      "rango": "13"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Yeti",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/5/56/Yeti_Info.png/280px-Yeti_Info.png?b3b7ac",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/2/24/Yeti1.png?f8c0ab",
+        "niveles": [
+          "1"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a4/Yeti2.png?ff8d93",
+        "niveles": [
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/0/0a/Yeti3.png?964b38",
+        "niveles": [
+          "3",
+          ""
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/2/21/Yeti4.png?a3175a",
+        "niveles": [
+          "4"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/d/d7/Yeti5.png?be3128",
+        "niveles": [
+          "5"
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Cualquiera",
+      "tipo_dano": "Cuerpo a Cuerpo (solo en tierra)",
+      "espacio_vivienda": "18",
+      "velocidad_movimiento": "12",
+      "velocidad_ataque": "1s",
+      "rango": "14"
+    }
+  },
+  {
+    "id": 15,
+    "name": "Yeti/Miniyeti",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/9/97/Yetimite_info.png/100px-Yetimite_info.png?5e47ef",
+    "niveles": [],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": null,
+      "tipo_dano": null,
+      "espacio_vivienda": null,
+      "velocidad_movimiento": null,
+      "velocidad_ataque": null,
+      "rango": null
+    }
+  },
+  {
+    "id": 16,
+    "name": "Montadragones",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/1/10/Montadragones_info.png/250px-Montadragones_info.png",
+    "niveles": [
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/5/5d/Montadragones1.png",
+        "niveles": [
+          "1"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/a/a8/Montadragones2.png",
+        "niveles": [
+          "2"
+        ]
+      },
+      {
+        "imagen": "https://clashofclans.wiki.gg/es/images/6/68/Montadragones3.png",
+        "niveles": [
+          "3",
+          ""
+        ]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Defensas",
+      "tipo_dano": "Objetivo Único",
+      "espacio_vivienda": "25",
+      "velocidad_movimiento": "20",
+      "velocidad_ataque": "1.2s",
+      "rango": "4.5 casillas"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Titánide eléctrica",
+    "image": "https://clashofclans.wiki.gg/es/images/thumb/1/14/Electro_Titan_info.png/300px-Electro_Titan_info.png",
+    "niveles": [
+      {
+        "imagen" :"https://clashofclans.wiki.gg/es/images/b/bd/Electro_Titan1.png",
+        "niveles" : [ "1"]
+      },
+      {
+        "imagen" :"https://clashofclans.wiki.gg/es/images/1/12/Electro_Titan2.png",
+        "niveles" : [ "2"]
+      },
+      {
+        "imagen" :"https://clashofclans.wiki.gg/es/images/d/d1/Electro_Titan3.png",
+        "niveles" : [ "1"]
+      }
+    ],
+    "tipo_tropa" : "Tropa de Elixir",
+    "estadisticas": {
+      "objetivo_preferido": "Ninguno",
+      "tipo_dano": "A distancia (tierra y aire)",
+      "espacio_vivienda": "32",
+      "velocidad_movimiento": "16",
+      "velocidad_ataque": "1.5s",
+      "rango": "0.4s"
+    }
+  }
+]

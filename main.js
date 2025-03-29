@@ -2,6 +2,9 @@ import puppeteer from 'puppeteer';
 import 'dotenv/config';
 import LINKS from './src/models/links.js';
 
+import fs from 'fs';
+
+
 (async () => {
 
     const browser = await puppeteer.launch({
@@ -71,17 +74,19 @@ import LINKS from './src/models/links.js';
 
         const levels = await getLeves(page, BASE_URL )
 
+        const statistics = await getStatistics(page)
+
         const troop = {
             id: count,
             name: name,
             image: troop_image,
-            niveles : levels
+            niveles : levels,
+            estadisticas : statistics
         }
 
         troops_data.push(troop)
 
         count++;
-        break;
     }
 
     browser.close()
@@ -91,6 +96,15 @@ import LINKS from './src/models/links.js';
         troops_data
     });
 
+    const json = JSON.stringify(troops_data, null, 2); // 2-space indentation for readability
+
+    fs.writeFile('myjsonfile.json', json, 'utf8', (err) => {
+        if (err) {
+            console.error('Error writing file:', err);
+        } else {
+            console.log('File saved successfully: myjsonfile.json');
+        }
+    });
 
 })();
 
@@ -151,8 +165,44 @@ const getStatistics = async (page) => {
         
         const elTable = await page.$(".wikitable")
 
+        const table_rows = await elTable.$$("tr")
+
+        const table_columns = await table_rows[1].$$("td")
+
+        console.log("iterando");
+
+
+        if(table_columns == null){
+            console.log("no se encontro td");
+            
+        }else{
+            console.log(table_columns.length);
+            
+        }
         
 
+        //for( const column of table_columns ){
+
+            const objetivo_preferido = await table_columns[0].evaluate(el => el.textContent.trim());
+            const tipo_dano = await table_columns[1].evaluate(el => el.textContent.trim());
+            const espacio_vivienda = await table_columns[2].evaluate(el => el.textContent.trim());
+            const velocidad_movimiento = await table_columns[3].evaluate(el => el.textContent.trim());
+            const velocidad_ataque = await table_columns[4].evaluate(el => el.textContent.trim());
+            const rango = await table_columns[5].evaluate(el => el.textContent.trim());
+            
+
+
+            statistics.objetivo_preferido = objetivo_preferido;
+            statistics.tipo_dano = tipo_dano;
+            statistics.espacio_vivienda = espacio_vivienda;
+            statistics.velocidad_movimiento = velocidad_movimiento;
+            statistics.velocidad_ataque = velocidad_ataque;
+            statistics.rango = rango;
+            
+
+        //}
+
+        return statistics
 
     } catch (error) {
     
